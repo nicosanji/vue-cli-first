@@ -1,8 +1,8 @@
 <template>
   <div id="app">
+    <Title></Title>
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
-    <Title></Title>
   </div>
 </template>
 
